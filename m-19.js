@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 19
+let problemSetNumber = 3
+let test = SAT
+let subject = Mathematics
+let category = Heart of Algebra/Linear inequalities in one or two variables
+let difficulty = 5
+let question = At a car wash, the interior and exterior of each car are cleaned. At most one car can be cleaned at a time, and the interior and exterior of each car are cleaned separately. The interior of each car requires 3~ounces of cleaning fluid and takes 10~minutes to clean, and the exterior of each car requires 5~ounces of cleaning fluid and takes 20~minutes to clean. If the car wash has 100~ounces of cleaning fluid and 400~minutes to clean cars, what is the maximum number of cars that can be cleaned?
+let choices = null
+let answer = 12
+let solution = Each car requires a total of 8~ounces of cleaning fluid and 30~minutes of time to clean. There is enough cleaning fluid for $\frac {100}{8} = 12.5$~cars, so at most 12~cars can be cleaned with the supply of cleaning fluid. There is enough time for $\frac {400}{30} \approx 13.33$~cars, so at most 13~cars can be cleaned with the supplied time. Thus, the supply of cleaning fluid limits the number of cars that can be cleaned to~12.
+let diagram = null
+let choicesAlign = null
+let calculator = null
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

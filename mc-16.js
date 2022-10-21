@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 16
+let problemSetNumber = 4
+let test = SAT
+let subject = Mathematics
+let category = Heart of Algebra/Linear inequalities in one or two variables
+let difficulty = 3
+let question = A software company will spend no more than \$\num {26500} to upgrade the equipment used by a department with 16~people. The company will purchase at least 1~computer and at least 2~monitors for each person. The company will also purchase at least 3~extra computers and at least 5~extra monitors as backups. The price of each computer is~\$900, and the price of each monitor is~\$280. If $c$ represents the number of computers and $m$ represents the number of monitors the company will purchase, which of the following systems of inequalities represents this situation?
+let choices = \begin {aligned}[t] &c+m \leq \num {26500} \\ &c \geq 19 \\ &m \geq 37 \\ \end {aligned}, \begin {aligned}[t] &c+m \leq \num {26500} \\ &c \geq 16 \\ &m \geq 32 \\ \end {aligned}, \begin {aligned}[t] &900c+280m \leq \num {26500} \\ &c \geq 19 \\ &m \geq 37 \\ \end {aligned}, \begin {aligned}[t] &900c+280m \leq \num {26500} \\ &19c \leq 900 \\ &37m \leq 280 \\ \end {aligned}
+let answer = C
+let solution = The company will purchase at least 1~computer per person and at least 3~extras. Since there are 16~people in the department,~$c \geq 16+3 = 19$. \par The company will purchase at least 2~monitors per person and at least 5~extras. Since there are 16~people in the department,~$m \geq 2(16)+5 = 37$. \par The total price of $c$~computers is~$\$900c$, and the total price of $m$ monitors is~$\$280m$. The budget for the upgrade is~$\$\num {26500}$, so $900c+280m \leq \num {26500}$. \par These three inequalities are given in choice~\TextChoice {3}.
+let diagram = null
+let choicesAlign = M
+let calculator = True
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

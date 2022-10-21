@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 10
+let problemSetNumber = 3
+let test = SAT
+let subject = Mathematics
+let category = Passport to Advanced Math/Equivalent expressions
+let difficulty = 3
+let question = If the expression above is rewritten in the form~$\frac {c}{x+2}$, where $c$ is a constant and $x \neq -2$, what is the value of~$c$?
+let choices = \frac {7}{20}, \frac {17}{20}, 2, 7
+let answer = A
+let solution = Both terms in the given expression have a factor of~$\frac {1}{x+2}$, so we can rewrite the expression by factoring out those terms: \par \begin {align*} \frac {3}{5(x+2)} - \frac {1}{4(x+2)} &= \frac {3}{5} \cdot \frac {1}{x+2} - \frac {1}{4} \cdot \frac {1}{x+2} \\[2ex] &= \left (\frac {3}{5}-\frac {1}{4}\right )\frac {1}{x+2} \\[2ex] &= \left (\frac {12}{20}-\frac {5}{20}\right )\frac {1}{x+2} \\[2ex] &= \frac {7}{20} \cdot \frac {1}{x+2} \\ &= \frac {\frac {7}{20}}{x+2} \\ \end {align*} \par Thus,~$c=\frac {7}{20}$, so choice~\TextChoice {1} is correct.
+let diagram = $\frac {3}{5(x+2)} - \frac {1}{4(x+2)}$
+let choicesAlign = M
+let calculator = null
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

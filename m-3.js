@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 3
+let problemSetNumber = 3
+let test = SAT
+let subject = Mathematics
+let category = Heart of Algebra/Linear equations in two variables
+let difficulty = 2
+let question = Emma estimates the total distance~$D$, in miles, driven during one week using the formula above, where $x$ is the number of hours driven on highways and $y$ is the number of hours driven on city streets. If Emma drove at least 500~miles during the week and drove for at most 4~hours on highways, what is the least number of hours she could have spent driving on city streets?
+let choices = 9,15,20,33
+let answer = C
+let solution = The equation given states that the total distance driven is the sum of the distance driven on highways~($50x$) and the distance driven on city streets~($15y$). The question gives us the following information: \par \begin {itemize}\tightlist \item Emma drove at least 500~miles, so $D \geq 500$ \item Emma drove for at most 4~hours on highways, so~$x \leq 4$ \end {itemize} \par The second item above tells us that~$50x \leq 200$, so the distance driven on highways is at most 200~miles. Thus, the distance driven on city streets must be at least 300~miles, so~$15y \geq 300$. Solve for~$y$ to get~$y \geq 20$, so the least number of hours she could have driven on city streets is~20.
+let diagram = $D=50x+15y$
+let choicesAlign = null
+let calculator = null
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

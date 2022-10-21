@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 2
+let problemSetNumber = 4
+let test = SAT
+let subject = Mathematics
+let category = Problem Solving and Data Analysis/Percentages
+let difficulty = 2
+let question = In~1970, the Empire State Building was the world’s tallest building with a height of \num {1250}~feet. In~1975, the Sears Tower was the world’s tallest building with a height of \num {1450}~feet. By what percent was the height of the Sears Tower greater than the height of the Empire State Building?
+let choices = 5,14,16,20
+let answer = C
+let solution = To find the percent increase, we find the actual increase and divide by the original value. The actual increase in the height was $\num {1450}-\num {1250}=200$~feet. The percent increase is thus~$\frac {200}{\num {1250}}=0.16$ or~16\%.
+let diagram = null
+let choicesAlign = r<{\%}
+let calculator = True
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

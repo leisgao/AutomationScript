@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 17
+let problemSetNumber = 4
+let test = SAT
+let subject = Mathematics
+let category = Problem Solving and Data Analysis/Ratios, rates, proportional relationships, and units
+let difficulty = 3
+let question = A portable electric generator has a power output of 5.5~kilowatts. Which of the following is closest to the total power output, in \uline {horsepower}, of 4~of these generators? (1~horsepower is approximately 0.746~kilowatts.)
+let choices = 4.1,7.4,16.4,29.5
+let answer = D
+let solution = If one generator has a power output of 5.5~kilowatts, 4~of these generators have a total power output of $4(5.5)=22$~kilowatts. Given the approximate conversion in the question, we convert kilowatts to horsepower: \par \[ \Si {22}{kilowatts} \cdot \frac {\Si {1}{horsepower}}{\Si {0.746}{kilowatts}} \approx \Si {29.49}{horsepower} \] \par Choice~\TextChoice {4} is correct.
+let diagram = null
+let choicesAlign = null
+let calculator = True
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

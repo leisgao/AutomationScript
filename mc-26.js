@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 26
+let problemSetNumber = 4
+let test = SAT
+let subject = Mathematics
+let category = Problem Solving and Data Analysis/Two-variable data: models and scatterplots
+let difficulty = 4
+let question = The slope of the line of best fit is~3.71. Which of the following can be concluded from this value?
+let choices = ['All students spent 3.71~hours completing homework in the last week for each of their class.', 'The predicted time for a student taking one class to have spent completing homework in the last week is 3.71~hours.', 'All students spent at least 3.71~hours completing homework in the last week.', 'For each additional class a student takes, the predicted time spent completing homework in the last week increases by 3.71~hours.']
+let answer = D
+let solution = The slope of the line of best fit tells us the predicted change in the $y$~value for an increase of~1 in the $x$~value. Thus, an increase of 1~class results in a predicted increase of 3.71~hours in the number of hours spent completing homework in the last week. Therefore, choice~\TextChoice {4} is correct. \par Choices \TextChoice {1} and~\TextChoice {3} is incorrect because we cannot draw conclusions about all students from a line of best fit. (The 20~points on the graph that do not lie on the line of best fit should make that clear.) Choice~\TextChoice {2} is incorrect because the slope indicates the change in~$y$ for a change of~1 in~$x$, not the value of~$y$ when~$x=1$.
+let diagram = null
+let choicesAlign = null
+let calculator = True
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

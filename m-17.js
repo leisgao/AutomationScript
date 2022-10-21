@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 17
+let problemSetNumber = 3
+let test = SAT
+let subject = Mathematics
+let category = Additional Topics in Math/Right triangles and trigonometry
+let difficulty = 3
+let question = An angle with a measure of~\Ang {315} has a measure of $r \pi $~radians. What is the value of~$r$?
+let choices = null
+let answer = $\frac {7}{4}$; 1.75
+let solution = A measure of $\pi $~radians is equivalent to a measure of~\Ang {180}. To convert from degrees to radians, we multiply by~$\frac {\pi }{\Ang {180}}$: \par \[ \Ang {315} \cdot \frac {\pi }{\Ang {180}} = \frac {315}{180} \pi = \frac {7}{4}\pi \]
+let diagram = null
+let choicesAlign = null
+let calculator = null
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null

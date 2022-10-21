@@ -1,0 +1,20 @@
+let tableName = TB12
+let formCode = TB-12
+let passageCode = 
+let questionNumber = 31
+let problemSetNumber = 4
+let test = SAT
+let subject = Mathematics
+let category = Heart of Algebra/Linear inequalities in one or two variables
+let difficulty = 1
+let question = If the value of~$\frac {x}{2}+7$ is at least~20, what is the least possible value of~$x$?
+let choices = null
+let answer = 26
+let solution = The question states that $\frac {x}{2}+7$ is at least~20. In inequality form, we have~$\frac {x}{2}+7 \geq 20$. Thus,~$x \geq 2 (20 - 7) = 26$, so the least possible value of~$x$ is~26.
+let diagram = null
+let choicesAlign = null
+let calculator = True
+let multipleQuestion = null
+let diagramPostText = null
+let diagramPreText = null
+let percent_correct = null
